@@ -2,13 +2,13 @@
 
 ## Hi there, I'm João Sledz
 
-I'm a front-end developer graduating in Software Engineering.
+I'm a developer graduated in Software Engineering.
 <br/>
 <br/>
 
 ### Currently learning:
 
-React,js <br/>
+React.js <br/>
 React Native  <br/>
 Node.js <br/>
 
@@ -23,7 +23,4 @@ Node.js <br/>
 </p>
 
 <p>
-<img width="453.5" src="https://github-readme-stats.vercel.app/api?username=joaosledz&bg_color=ffffff13&text_color=fff&border_radius=10&border_color=00000000&show_icons=true" />
-
-  <img width="378.95" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosledz&layout=compact&bg_color=ffffff13&text_color=fff&border_radius=10&border_color=00000000" />
   </p>
